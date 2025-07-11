@@ -1,6 +1,6 @@
 # 🎓 AcademixNow
 
-A fast, modern, and scalable web application built with **React** and **Vite** — designed for dynamic learning experiences, lightning-fast performance, and developer joy 🚀.
+A fast, modern, and scalable **education platform** built with **React** and **Vite** — designed to deliver dynamic learning experiences, smooth animations, secure user authentication, and lightning-fast performance for students, teachers, and educational institutions.
 
 ---
 
