@@ -6,12 +6,21 @@ A fast, modern, and scalable web application built with **React** and **Vite** �
 
 ## 🔧 Tech Stack
 
-- ⚛️ **React** – UI library for building interactive user interfaces
+### 🧩 Frontend
+
+- ⚛️ **React** – UI library for building interactive interfaces
 - ⚡ **Vite** – Lightning-fast build tool with HMR
-- 💅 **Tailwind CSS** (optional) – Utility-first styling
-- 📦 **ESLint + Prettier** – Code quality and consistency
+- 💅 **Tailwind CSS** – Utility-first styling framework
 - 🔁 **React Router** – Client-side routing
-- 🧪 **Jest / Vitest** – Testing (optional)
+- 🎞️ **Framer Motion** – Smooth, modern animations and transitions
+- 📦 **ESLint + Prettier** – Code quality, formatting & consistency
+
+### 🛠 Backend
+
+- 🟢 **Node.js** – JavaScript runtime environment
+- 🚂 **Express.js** – Fast and minimalist web framework
+- 🔐 **JWT (JSON Web Token)** – Secure user authentication
+- 🗄️ **MongoDB**  – Database layer (optional detail)
 
 ---
 
