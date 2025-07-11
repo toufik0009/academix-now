@@ -1,12 +1,24 @@
-# React + Vite
+# 🎓 AcademixNow
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fast, modern, and scalable web application built with **React** and **Vite** — designed for dynamic learning experiences, lightning-fast performance, and developer joy 🚀.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔧 Tech Stack
 
-## Expanding the ESLint configuration
+- ⚛️ **React** – UI library for building interactive user interfaces
+- ⚡ **Vite** – Lightning-fast build tool with HMR
+- 💅 **Tailwind CSS** (optional) – Utility-first styling
+- 📦 **ESLint + Prettier** – Code quality and consistency
+- 🔁 **React Router** – Client-side routing
+- 🧪 **Jest / Vitest** – Testing (optional)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/academixnow.git
+cd academixnow
