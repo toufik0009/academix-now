@@ -26,4 +26,5 @@ A fast, modern, and scalable web application built with **React** and **Vite** â
 
 ```bash
 git clone https://github.com/toufik0009/academix-now
-cd academixnow
+cd academix-now
+npm run dev
